@@ -1,4 +1,4 @@
-<h1 align="center">IBGE Nomes Brasil :flag-br:</h1> 
+<h1 align="center">IBGE Nomes Brasil :flag_brazil:</h1> 
 
 > Análise de dados dos nomes no Brasil utilizando a base de dados do IBGE disponibilizada pelo [Base dos Dados](https://basedosdados.org/dataset/br-ibge-nomes-brasil)
 
