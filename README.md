@@ -7,6 +7,6 @@ O VamoAI é um projeto de formação de analista de dados, através de uma parce
 
 ---
 ## **Integrantes**
-- Mariãn do Carmo 
-- Luzivan Lira
-- Thiago Silva
+- [Mariãn do Carmo](https://github.com/mariandocarmo)
+- [Luzivan Lira](https://github.com/luzivan-lira)
+- [Thiago Silva](https://github.com/tsffarias)
