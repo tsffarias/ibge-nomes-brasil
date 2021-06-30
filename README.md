@@ -26,7 +26,18 @@ O VamoAI é um projeto de formação de analista de dados, através de uma parce
 Os nomes são espelhos de identidade das pessoas, ter um nome é um direito constitucional, e revela traços da identidade de um povo. Quando visto em dados numéricos, é possível entender o porquê da popularidade de determinados nomes, já que no caso do Brasil os nomes se relacionam com a história do País.
 No Censo demográfico do Brasil de 2010, realizado pelo IBGE, a instituição reuniu quais eram os nomes mais populares a cada década entre os 200 milhões de brasileiros. No Censo demográfico do Brasil de 2000, a tendência do país continuava a caminhar para nomes que remetem a histórias e personagens bíblicos. Por exemplo: em primeiro lugar está Maria, com mais de 11 milhão de registros. Em segundo lugar João, com mais de 5 milhões de registros, e em terceiro lugar Ana, com mais de 3 milhões de registros.
 
+<p align="center">
+    <img src = "./images/top_10_nomes_brasil.png">
+</p>
+
 Além da tendência religiosa, outro dado interessante que chama atenção, é que dos dez nomes brasileiros mais populares, apenas dois são femininos (Maria e Ana), um fato curioso ao verificarmos que o Brasil é majoritariamente de mulheres. “A população brasileira é composta por 48,2% de homens e 51,8% de mulheres”, segundo a [Pesquisa Nacional por Amostra de Domicílios Contínua](https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18320-quantidade-de-homens-e-mulheres.html), de 2019. O mesmo resultado já era apresentado em 2000.
+
+<p align="center">
+    <img src = "./images/top_10_nomes_regiao.png">
+</p>
 
 Nosso time também realizou uma análise de todos os nomes da sala VamoAI. Os nomes mais populares da sala são: Ana, João, Gabriel, Felipe e Mateus. Os nomes mais populares dentre o nosso time foi Thiago, com 332.722 registros, Marian com 517 registros e Luzivan com 78 registros.
 
+<p align="center">
+    <img src = "./images/sala_vamoai.png">
+</p>
