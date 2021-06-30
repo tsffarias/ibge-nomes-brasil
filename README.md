@@ -1,10 +1,12 @@
-![N|Solid](https://upload.wikimedia.org/wikipedia/pt/8/8c/Ibge-logo.png)
+<p align="center">
+<img src = "https://upload.wikimedia.org/wikipedia/pt/8/8c/Ibge-logo.png">
+</p>
 
 <h1 align="center">IBGE Nomes Brasil</h1> 
 
 > Análise de dados dos nomes no Brasil utilizando a base de dados do IBGE disponibilizada pelo [Base dos Dados](https://basedosdados.org/dataset/br-ibge-nomes-brasil)
 
-## **O projeto**
+## **Projeto**
 O VamoAI é um projeto de formação de analista de dados, através de uma parceria do Ifood com a instituição de ensino Resilia. Ao final de cada módulo desenvolvemos um projeto, e para o fechamento do quarto módulo, nós realizamos uma análise dos dados dos nomes no Brasil, utilizando a base de dados do IBGE disponibilizada pelo [Base dos Dados](https://basedosdados.org/dataset/br-ibge-nomes-brasil).
 
 ---
@@ -13,8 +15,13 @@ O VamoAI é um projeto de formação de analista de dados, através de uma parce
 - [Luzivan Lira](https://github.com/luzivan-lira)
 - [Thiago Silva](https://github.com/tsffarias)
 
+---
+## **Base de Dados**
+- [br_ibge_nomes_brasil](https://basedosdados.org/dataset/br-ibge-nomes-brasil)
+- [br_bd_diretorios_brasil](https://basedosdados.org/dataset/br-bd-diretorios-brasil)
 
-### Nomes
+---
+## **Análise dos Dados**
 
 Os nomes são espelhos de identidade. Ter um nome é um direito em constituição. Sendo um código civil que é hoje mutável, revela traços da identidade de um povo. Quando visto em dados numéricos, é possível entender o porquê da popularidade de determinados nomes, já que no caso do Brasil os nomes se relacionam com a história do País.
 No Censo demográfico do Brasil de 2010, realizado pelo IBGE, a instituição reuniu quais eram os nomes mais populares a cada década entre os 200 milhões de brasileiros. No Censo demográfico do Brasil de 2000, a tendência do país continuava a caminhar para nomes que remetem a histórias e personagens bíblicos. Por exemplo: em primeiro lugar está Maria, com mais de 11 milhão de registros. Em segundo lugar João, com mais de 5 milhões de registros, e em terceiro lugar Ana, com mais de 3 milhões de registros.
