@@ -44,3 +44,10 @@ Nosso time também realizou uma análise de todos os nomes da sala VamoAI. Os no
 <p align="center">
     <img src = "./images/sala_vamoai.png">
 </p>
+
+---
+## **Referências**
+* [O ibge e a religião - Cristãos são 86,8% do Brasil,católicos caem para 64,6%,evangélicos já são 22,2%](https://veja.abril.com.br/blog/reinaldo/o-ibge-e-a-religiao-cristaos-sao-86-8-do-brasil-catolicos-caem-para-64-6-evangelicos-ja-sao-22-2/) 
+* [Quantidade de homens e mulheres. IBGE Educa.](https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18320-quantidade-de-homens-e-mulheres.html) 
+* [Base dos dados Nomes no Brasil](https://basedosdados.org/dataset/br-ibge-nomes-brasil) 
+* [Base dos dados Diretórios brasileiros](https://basedosdados.org/dataset/br-bd-diretorios-brasil) 
