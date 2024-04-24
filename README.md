@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://upload.wikimedia.org/wikipedia/pt/8/8c/Ibge-logo.png">
+<img src = "https://www.infoescola.com/wp-content/uploads/2008/02/IBGE.png">
 </p>
 
 <h1 align="center">IBGE Nomes Brasil</h1> 
